@@ -1,4 +1,4 @@
-# Machine-Learning-
+# Machine-Learning
 Important notes for Machine Learning - caret
 
 
